@@ -5,6 +5,14 @@ docker-compose up -d
 podman compose up -d
 ```
 
+```sh
+docker-compose up -d
+```
+
+```sh
+podman compose up -d
+```
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
